@@ -1,0 +1,306 @@
+InputDepartmentPlan
+
+52
+
+Level 1
+
+CPIT 100        Computer?Skills 	3 	theory lab 	  
+
+ELI 101 	English?Language?(1) 	0 	theory lab 	 
+
+ELI 102 	English?Language?(2) 	2 	theory lab 	 
+
+MATH 110        Mathematics 		3 	theory N/A	 
+
+PHYS 110 	General?Physics 	3 	theory lab
+
+BIO 110          General?Biology        3 	theory lab
+
+
+
+Level 2
+
+COMM 101 	Communication?Skills 	3 	theory N/A
+
+ELI 103 	English?Language?(3) 	2 	theory lab
+
+ELI 104 	English?Language?(4) 	2 	theory lab
+
+STAT 110 	Statistics 		3 	theory N/A
+
+CHEM 110 	General?Chemistry 	3 	theory lab
+
+
+
+Level 3
+
+ISLS 101 	Islamic?Culture?(1) 	2 	theory N/A
+
+CPIT 201 	Introduction?to?Computing 	3 	theory lab
+
+STAT 210 	Introduction?to?Computing?Statistics 	3 	theory N/A
+
+CPCS 202 	Programming?(I) 	3 	theory lab
+
+CPIT 221 	Technical?Writing 	2 	theory N/A
+
+
+
+Level 4
+
+ISLS 201 	Islamic?Culture?(II) 	2 	theory N/A
+
+ARAB 101 	Language?Skills 	3 	theory N/A
+
+MATH 202 	Calculus?(II) 	 	3 	theory lab
+
+CPCS 203 	Programming?(II) 	3 	theory lab
+
+CPCS 222 	Discrete?Structures?(I) 3 	theory N/A
+
+
+
+Level 5
+
+CPCS 204 	Data?Structures?(I) 	3 	theory lab
+
+CPCS 212 	Applied?Math?for?Computing?(I) 	4 	theory lab
+
+CPCS 211 	Digital?Logic?Design 	3 	theory lab
+
+PHYS 202 	General?Physics 	4 	theory lab  
+
+
+
+Level 6
+
+STAT 352 	Applied?Probability?&?Random?Processes 	3 	theory N/A
+
+CPCS 301 	Programming?Languages 		        3 	theory lab
+
+CPCS 241 	Database?(I) 		   	        3 	theory lab
+
+CPCS 214 	Computer?Organization?and?Architecture?(I) 	3 	theory lab
+
+CPCS 223        Analysis?&?Design?of?Algorithms 	3 	theory N/A
+
+
+
+Level 7
+
+CPIS 334        Introduction?To?Software?Project?Management 2 theory lab
+
+CPCS 324        Algorithms?&?Data?Structures?(II)		3 theory lab
+
+CPCS 331        Artificial?Intelligence?(I) 		        3 theory lab
+
+CPCS 351        Software?Engineering?(I) 			3 theory lab
+
+CPCS 361        Operating?Systems?(I) 				3 theory lab
+
+CPCS 371        Computer?Networks?(I) 				3 theory lab
+
+
+
+Level 8
+
+ISLS 301 	Islamic?Culture?(III) 	2 	theory N/A
+
+CPCS 302 	Compiler?Construction 	3 	theory lab
+
+CPCS 381 	Human-Computer?Interaction?(I) 2 theory N/A
+
+CPCS 391 	Computer?Graphics?(I) 	3 	theory lab
+
+HIST 221        Biography?of?the?Prophet?and/Caliphs 3   theory N/A
+
+
+
+Level 9
+
+ARAB 201 	Writing?Skills 		3 	theory N/A
+
+CPCS 498 	Senior?Project?(I) 	1 	theory lab
+
+CPCS 372 	Computer?Networks?(II) 	3 	theory lab
+
+ISLS 211 	Quran?Kareem	 	3 	theory N/A	 	 
+
+DA 324 		Design?With?Computer 	3 	theory lab	  
+
+ 
+
+
+
+Level 10
+
+ISLS 401 	Islamic?Culture?(IV) 	2 	theory N/A
+
+CPCS 499 	Senior?Project?(II) 	3 	theory lab
+
+CPCS 474        TCP/IP?&?Web?Networking   3 	theory lab
+
+CPCS 494 	Selected?Topics?(Wireless?Networks) 	2 theory lab
+
+CPIS 428 	Professional?Computing?Issues 	3 	theory N/A
+
+
+
+
+
+Level 11
+
+CPCS 323 Summer?(Workplace)?Training?(I)  0 N/A lab
+
+
+
+InputInstructorData
+
+7
+
+Amani?Ali 9011 1990 Associate?Professor 
+
+Mona?Mohammed 1004 2010 Teaching?Assistant
+
+Salwa?Ahmed 0505 2005 Assistant?Professor
+
+Nermeen?Assad 0907 2009 Lecturer
+
+Arwa?Mustafa 0708 2007 Assistant?Professor
+
+Tahani?Rida 1101 2011 Teaching?Assistant
+
+Bassma?Fuad 9501 1995 Associate?Professor
+
+
+
+InputStudentData
+
+6
+
+Shereen?Fathi 152341 2015 4.7 27 N/A
+
+Ahlam?Musa 121234 2012 4 97 N/A
+
+Reem?Raddy 144123 2014 2.75 54 N/A
+
+Asmaa?Tawfeeg 151234 2015 4.9 27 N/A
+
+Nuha?Faris 143412 2014 3.9 54 N/A
+
+Suzzan?Ahmed 122341 2012 4.5 100 N/A
+
+
+
+
+InputSectionData
+
+15
+
+01101 AGR ISLS 101 60 8-9?U-T N/A A111 N/A
+
+61201 BGR CPIT 201 24 10-11?U-T 10-11?R F120 G131
+
+05210 CGR STAT 210 24 12-1?U-T 12-1?R G128 G107	
+
+61202 DGR CPCS 202 24 8-9:30?M-W 12:30-2?M G126 G123
+
+61221 EGR CPIT 221 24 9:30-11?M-W N/A G147 N/A
+
+05352 FGR STAT 352 24 9-10?U-T 9-10?R G128 G107	
+
+61301 GGR CPCS 301 24 9:30-11?M-W 8-9:30?M G148 G139
+
+61241 HGR CPCS 241 24 11-12:30?M-W 2-3:30?W F106	G122
+
+61214 IGR CPCS 214 24 9-10?U-T-R 11-12:30?T G147 G145
+
+61223 JGR CPCS 223 24 10-11?U-T-R 11-12:30?R G147 G123
+
+01201 KGR ARAB 201 60 1-2?U-T-R N/A A112 N/A
+
+61498 LGR CPCS 498 5 TBA	N/A N/A N/A
+
+61372 MGR CPCS 372 24 9-10?U-T-R 11-12:30?U F105 G146
+
+01211 NGR ISLS 211 60 8-9?U-T-R N/A A113 N/A	
+
+62324 OGR DA 324   20 9:30-11?M-W 11-12:30?M B111 Z105
+
+
+
+RegisterCourse
+
+6
+
+144123 05352 61301 -1
+
+152341 01101 61201 05210 61202 61221 61301 -1
+
+151234 01101 61201 05210 61202 61221  -1
+
+122341 01201 61372 01211 62324 -1
+
+143412 05352 61301 61241 61223 62324 -1
+
+121234 01201 61241 61498 61372 62324 -1
+
+
+
+
+
+
+
+InstructorLoadRequest
+
+7
+
+9011 61498 61372 -1
+
+9501 61221 61223 -1
+
+0505 61202 61241 -1
+
+0708 61201 61241 -1
+
+0907 61214 61223 -1
+
+1004 61202 61241 -1
+
+1101 61301 61372 -1
+
+
+PrintAllInstructorsLoads
+
+
+PrintSectionStudentList
+
+
+01201 62324 61202 05210   -1
+
+
+PrintSortedSectionStudentList
+
+
+05210 61498 61301 -1
+
+
+DropCourse  151234 05210
+
+
+DropCourse  122341  61498
+
+
+DropCourse  143412  61301
+
+
+PrintSortedSectionStudentList
+
+
+05210 61498 61301 -1
+
+DropCourse  121234  62324
+
+
+
+
